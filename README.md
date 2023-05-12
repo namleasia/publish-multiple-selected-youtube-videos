@@ -6,6 +6,6 @@ JavaScript help to publish your selected youtube videos.
 4. Paste the entire content of youtube-publish-selected.js file.
 5. Hit enter, and wait.
 
-It should work as of 2021-09-30.
+It should work as of 2023-05-12.
 
 Modified from https://github.com/Niedzwiedzw/youtube-publish-drafts
