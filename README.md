@@ -9,4 +9,4 @@ JavaScript help to publish (mark as Private) your draft videos.
 
 It should work as of 2023-05-12.
 
-Youtube allow to edit the visibile of multiple videos at once after draft videos changed to private (by this script).
+Youtube allow to edit the visibile of multiple videos at once after draft videos marked as private (by this script).
