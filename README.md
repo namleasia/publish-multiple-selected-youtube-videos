@@ -1,5 +1,6 @@
 # publish-multiple-selected-youtube-videos
-JavaScript help to publish your selected youtube videos.
+JavaScript help to publish (mark as Private) your draft videos.
+
 1. Go to YouTube Studio's "Content" page.
 2. Select your draft videos.
 3. Press F12 to open console.
@@ -8,4 +9,4 @@ JavaScript help to publish your selected youtube videos.
 
 It should work as of 2023-05-12.
 
-Modified from https://github.com/Niedzwiedzw/youtube-publish-drafts
+Youtube allow to edit the visibile of multiple videos at once after draft videos changed to private (by this script).
