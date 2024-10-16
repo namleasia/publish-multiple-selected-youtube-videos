@@ -11,7 +11,7 @@
     // ~ PUBLISH CONFIG
     // -----------------------------------------------------------------
     const MADE_FOR_KIDS = false; // true / false;
-    const VISIBILITY = 'Private'; // 'Public' / 'Private' / 'Unlisted'
+    const VISIBILITY = 'Public'; // 'Public' / 'Private' / 'Unlisted'
     // -----------------------------------------------------------------
     // ~ SORT PLAYLIST CONFIG
     // -----------------------------------------------------------------
